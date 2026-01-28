@@ -3,11 +3,6 @@
 **`Data Analyst`**
 
 💻Data Analyst passionate about end-to-end projects: from data collection and documentation to reporting actionable insights.<br>✨Administrative & Operations Specialist, combining operational expertise with analytical skills.<br>🎯Skilled at pivoting confidently, uncovering insights, and implementing data-driven change.<br>🎀Certified Data Analyst by DataCamp<br>🏫Help companies in SaaS, Fintech, Retail, and other industries leverage data to improve decision-making, optimize processes, and drive business impact.<br>💭Currently learning about databricks, and enhancing my Python skills.<br>📩You can reach me at [emnjaller@gmail.com](emnjaller@gmail.com)
-
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/_ess__ence/) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/esther-mnjala-52a586170/)
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/TheClassicEssy) 
-
 _____
 
 # 💻 Tech Stack
