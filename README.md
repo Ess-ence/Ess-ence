@@ -2,7 +2,7 @@
 
 **`Data Analyst`**
 
-💻Data Analyst passionate about end-to-end projects: from data collection and documentation to reporting actionable insights.<br>✨Administrative & Operations Specialist, combining operational expertise with analytical skills.<br>🎯Skilled at pivoting confidently, uncovering insights, and implementing data-driven change.<br>🎀Certified Data Analyst by DataCamp<br>🏫Help companies in SaaS, Fintech, Retail, and other industries leverage data to improve decision-making, optimize processes, and drive business impact.<br>💭Currently learning about databricks, and enhancing my Python skills.<br>📩You can reach me at [emnjaller@gmail.com](emnjaller@gmail.com)
+💻Data Analyst passionate about end-to-end projects: from data collection and documentation to reporting actionable insights.<br>✨Administrative & Operations Specialist, combining operational expertise with analytical skills.<br>🎯Skilled at pivoting confidently, uncovering insights, and implementing data-driven change.<br>🎀Certified Data Analyst by DataCamp<br>🏫Help companies in SaaS, Fintech, Retail, and other industries leverage data to improve decision-making, optimize processes, and drive business impact.<br>💭Currently learning and mastering data engineering, databricks, and enhancing my Python skills.<br>📩You can reach me at [emnjaller@gmail.com](emnjaller@gmail.com)
 _____
 
 # 💻 Tech Stack
